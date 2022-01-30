@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/responsive-page-using-bootstrap-css-and-html-85TsoSRd5)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github](https://devdenice.github.io/nft-preview-card-component-main/)
 
 ## My process
 
